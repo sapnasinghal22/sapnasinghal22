@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sapna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **web development and dsa**
+- 🌱 I’m currently learning **Mern Stack and dsa with cpp**
 
 - 📫 How to reach me **sapnasinghal503@gmail.com**
 
