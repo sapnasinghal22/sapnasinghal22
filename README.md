@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm sapna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 - 🌱 I’m currently learning **Mern Stack and dsa with cpp**
+-  I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
 
 - 📫 How to reach me **sapnasinghal503@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
