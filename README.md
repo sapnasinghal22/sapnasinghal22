@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **Mern Stack and dsa with cpp**
--  I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
+
+- 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
+-  🌱 I’m currently learning **Mern Stack and dsa with cpp**
 
 - 📫 How to reach me **sapnasinghal503@gmail.com**
 - 
